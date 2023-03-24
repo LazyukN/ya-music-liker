@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/ndrewnee/go-yamusic/yamusic"
+	"github.com/LazyukN/go-yamusic-extended/yamusic"
 	"github.com/rubyist/circuitbreaker"
 	"log"
 	"net/http"
